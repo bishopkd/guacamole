@@ -1,12 +1,12 @@
   
-### Guacamole
+## Guacamole
 
 This is where the documents for the guacamole recipe reside.
 
-## Ingredients
+### Ingredients
 
 The ingredients file is here.
 
-## Recipe
+### Recipe
 
 Instructions for making the recipe go here. I will include prep time and procedures.
