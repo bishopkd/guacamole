@@ -1,5 +1,12 @@
-### README
+  
+### Guacamole
 
-## Second try
+This is where the documents for the guacamole recipe reside.
 
-This is another attempt to render markup.
+## Ingredients
+
+The ingredients file is here.
+
+## Recipe
+
+Instructions for making the recipe go here. I will include prep time and procedures.
